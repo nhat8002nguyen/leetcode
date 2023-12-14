@@ -54,6 +54,3 @@ func gcdOfStrings(str1 string, str2 string) string {
 	return ""
 }
 
-func main() {
-	print(gcdOfStrings("ABABABAB", "ABAB"))
-}
